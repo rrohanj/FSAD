@@ -1,0 +1,16 @@
+# Frontend
+fan-crowdsourcer-ui/node_modules/
+fan-crowdsourcer-ui/build/
+.env
+
+# Backend
+vibecheck-backend/target/
+vibecheck-backend/.mvn/
+vibecheck-backend/*.jar
+vibecheck-backend/.settings/
+vibecheck-backend/.classpath
+vibecheck-backend/.project
+
+# OS Files
+.DS_Store
+Thumbs.db
